@@ -1,2 +1,2 @@
 # gladys-awox
-Modue Gladys pour contrôler les lampes Awox de type SML
+Module Gladys permettant le contrôle des lampes Awox SWL
